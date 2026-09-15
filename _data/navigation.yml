@@ -12,8 +12,9 @@ main:
     url: /publications/
 
   - title: "Research in Progress"
-    url: /year-archive/
-
+    url: /research-in-progress/
+  
+  
   - title: "Teaching"
     url: /teaching/    
     
