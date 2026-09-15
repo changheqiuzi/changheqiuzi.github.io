@@ -286,6 +286,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # reasearch
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS
@@ -355,3 +364,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
