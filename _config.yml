@@ -27,7 +27,7 @@ author:
   name             : "Qiuzi Chang-He"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Communication"
-  location         : "Pittsburgh"
+#  location         : "Pittsburgh"
   employer         : "University of Pittsburgh"
   uri              : # URL
   email            : "changheqiuzi@outlook.com" 
