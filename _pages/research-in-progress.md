@@ -20,8 +20,8 @@ I conducted 7 interviews during the summer and found that 2 of these didn't quit
 
 I have gone through the first round of close, immersive reading on the 5 interviews retained for the current phase of the project. This produced two kinds of notes:
 
-**Notes:** annotations of significant expressions and terms used by the interviewees themselves, along with my own interpretive reactions as I read.  
-**Memos:** distilled points that speak back to the research question, along with a short description of each interviewee.
+**- Notes:** annotations of significant expressions and terms used by the interviewees themselves, along with my own interpretive reactions as I read.  
+**- Memos:** distilled points that speak back to the research question, along with a short description of each interviewee.
 
 **Future plan:** Recruit more interviewees and begin coding (analyzing and interpreting the interview data).
 
