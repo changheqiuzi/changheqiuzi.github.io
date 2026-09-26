@@ -5,9 +5,9 @@ author_profile: false
 classes: wide
 ---
 
-## Update 1 — September 25, 2026: Sources, Methods, and Reflections
+## Iteration 1 — September 25, 2026
 
-## Part 1: Sources, Methods, and Writing So Far
+## Current Result So
 
 ### Primary Sources
 
@@ -27,7 +27,7 @@ I have gone through the first round of close, immersive reading on the five inte
 
 #### Media Content Provided by Interviewees
 
-I still need to find an effective method to organize this — right now it's all sitting on my phone.
+I still need to find an effective method to organize this. Right now it's all stored on my phone.
 
 ### Secondary Sources
 
@@ -47,7 +47,7 @@ I still need to find an effective method to organize this — right now it's all
 
 ### 1. What is your hypothesis, thesis, or engaging line of inquiry that you would like to investigate during this course? Which digital tools do you plan to use in your process? Why do you think your research would be well-served by the application of these digital tools?
 
-The project investigates people who are genuinely engaged in a romantic relationship with an AI companion, aiming to understand how they perceive that relationship and how they respond to it emotionally. Specifically, I intervene at a special moment when the relationship was discontinued due to a model upgrade. My questions are: How do Chinese users **describe** and **respond** to the loss of an AI partner? And how do their responses reflect their **experiences** and **expectations** of human–AI romance?
+The project investigates people who are genuinely engaged in a romantic relationship with an AI companion, aiming to understand how they perceive that relationship and how they respond to it emotionally. Specifically, I intervene at a special moment when the relationship was discontinued due to a model upgrade. My questions are: How do Chinese users describe and respond to the loss of an AI partner? And how do their responses reflect their experiences and expectations of human–AI romance?
 
 I use Notion for writing, Obsidian for organizing interview data, Zotero for literature, and plan to use NVivo for analysis. This is my first time using Obsidian. As an organizing tool rather than a web-based notebook, it keeps all data stored locally on my own computer, which aligns with the ethical principles on how this data should be stored and handled. It makes it easy for me to keep each interview's recording, transcript, memos, and notes organized together. To be fair, a simple folder structure on the computer could do that too. But Obsidian gives me a clearer interface for viewing these records, and more flexible multi-window support, so I can listen to the recording, look at the transcript, and take notes all at the same time. I'm also curious about its graph view feature, which can visualize links between notes, though I'm still figuring out how it might serve my research.
 
