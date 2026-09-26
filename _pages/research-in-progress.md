@@ -19,6 +19,7 @@ I conducted 7 interviews during the summer and found that 2 of these didn't quit
 > **Question here:** I certainly bring my own interpretation here — to me, an interviewee was doing "experiment" rather than "genuine romantic engagement." But the person saw my poster and decided they fit the description, which indicates that they themselves thought their experience could be considered as such. I didn't want to negate their own feeling, but their experience didn't fit the research's purpose. Is there a proper way to balance staying disciplined about the scope of my research subjects with respecting the interviewee's own perspective on their experience? What should I do with this data?
 
 I have gone through the first round of close, immersive reading on the 5 interviews retained for the current phase of the project. This produced two kinds of notes:
+
 **Notes:** annotations of significant expressions and terms used by the interviewees themselves, along with my own interpretive reactions as I read.
 **Memos:** distilled points that speak back to the research question, along with a short description of each interviewee.
 
