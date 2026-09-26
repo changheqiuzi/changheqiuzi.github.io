@@ -41,8 +41,9 @@
   border-radius: 10px !important;
 }
 body.research-in-progress-wide .archive {
-  float: none;
-  width: 100%;
-  margin-left: 0;
-  padding-left: 0;
+  float: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
 }
