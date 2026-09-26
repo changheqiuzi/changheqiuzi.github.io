@@ -16,11 +16,11 @@ layout: single
 
 I conducted 7 interviews during the summer and found that 2 of these didn't quite align with the purpose of the study. The project is designed around people who are genuinely engaged in a romantic relationship with an AI companion, with the goal of understanding their perceptions of, and emotional responses to, that relationship. The excluded participants were using AI companions more as an experiment or a general-purpose companion. They reached out to me for the interview, eager to talk about the experience, in part because it is not always acknowledged or understood by people around them.
 
-> **A methodological question here:** I certainly bring my own interpretation here — to me, an interviewee was doing "experiment" rather than "genuine romantic engagement." But the person saw my poster and decided they fit the description, which indicates that they themselves thought their experience could be considered as such. I didn't want to negate their own feeling, but their experience didn't fit the research's purpose. Is there a proper way to balance staying disciplined about the scope of my research subjects with respecting the interviewee's own perspective on their experience? What should I do with this data?
+> **Question here:** I certainly bring my own interpretation here — to me, an interviewee was doing "experiment" rather than "genuine romantic engagement." But the person saw my poster and decided they fit the description, which indicates that they themselves thought their experience could be considered as such. I didn't want to negate their own feeling, but their experience didn't fit the research's purpose. Is there a proper way to balance staying disciplined about the scope of my research subjects with respecting the interviewee's own perspective on their experience? What should I do with this data?
 
 I have gone through the first round of close, immersive reading on the 5 interviews retained for the current phase of the project. This produced two kinds of notes:
-- **Notes** — annotations of significant expressions and terms used by the interviewees themselves, along with my own interpretive reactions as I read.
-- **Memos** — distilled points that speak back to the research question, along with a short description of each interviewee.
+**Notes:** annotations of significant expressions and terms used by the interviewees themselves, along with my own interpretive reactions as I read.
+**Memos:** distilled points that speak back to the research question, along with a short description of each interviewee.
 
 **Future plan:** Recruit more interviewees and begin coding (analyzing and interpreting the interview data).
 
