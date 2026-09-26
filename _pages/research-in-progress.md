@@ -7,7 +7,15 @@ classes:
   - research-in-progress-wide
 layout: archive
 ---
-
+<style>
+#main > .archive {
+  float: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+}
+</style>
 ## Iteration 1 — September 25, 2026
 
 ## Current Result
