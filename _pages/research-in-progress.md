@@ -2,6 +2,7 @@
 title: "Research in Progress"
 permalink: /research-in-progress/
 author_profile: false
+classes: wide
 ---
 
 ## Update 1 — September 25, 2026: Sources, Methods, and Reflections
