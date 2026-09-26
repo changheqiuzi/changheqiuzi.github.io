@@ -15,7 +15,7 @@ classes: wide
 
 I conducted 7 interviews during the summer. On review, 2 of these didn't quite align with the purpose of the study. The project is designed around people who are genuinely engaged in a romantic relationship with an AI companion, with the goal of understanding their perceptions of, and emotional responses to, that relationship. The excluded participants were using AI companions more as an experiment or a general-purpose companion. They found me for the interview, eager to talk about the experience, in part because it is not always acknowledged or understood by people around them.
 
-> **A methodological question I've been sitting with:** I certainly bring my own interpretation here — to me, an interviewee was doing "experiment" rather than "genuine romantic engagement." But the person saw my poster and decided they fit the description, which indicates that they themselves thought their experience could be considered as such. I didn't want to negate their own feeling, but their experience didn't fit the research's purpose. Is there a proper way to balance staying disciplined about the scope of my research subjects with respecting the interviewee's own perspective on their experience? What should I do with this data?
+> **A methodological question here:** I certainly bring my own interpretation here — to me, an interviewee was doing "experiment" rather than "genuine romantic engagement." But the person saw my poster and decided they fit the description, which indicates that they themselves thought their experience could be considered as such. I didn't want to negate their own feeling, but their experience didn't fit the research's purpose. Is there a proper way to balance staying disciplined about the scope of my research subjects with respecting the interviewee's own perspective on their experience? What should I do with this data?
 
 I have gone through the first round of close, immersive reading on the five interviews retained for the current phase of the project. This produced two kinds of notes:
 - **Notes** — annotations of significant expressions and terms used by the interviewees themselves, along with my own interpretive reactions as I read.
@@ -39,7 +39,8 @@ I still need to find an effective method to organize this. Right now it's all st
 
 ### Writing Completed So Far
 
-- [Project Proposal](链接地址)
+- I wrote a [proposal] for this project
+  [Project Proposal](链接地址)
 
 ---
 
