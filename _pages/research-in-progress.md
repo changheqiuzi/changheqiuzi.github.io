@@ -2,7 +2,7 @@
 title: "Research in Progress"
 permalink: /research-in-progress/
 author_profile: false
-classes: wide
+classes: wide research-in-progress-wide
 layout: archive
 ---
 
