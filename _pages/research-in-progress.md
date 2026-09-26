@@ -3,6 +3,7 @@ title: "Research in Progress"
 permalink: /research-in-progress/
 author_profile: false
 classes: wide
+layout: single
 ---
 
 ## Iteration 1 — September 25, 2026
