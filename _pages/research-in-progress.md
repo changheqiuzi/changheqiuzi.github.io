@@ -7,7 +7,7 @@ classes: wide
 
 ## Iteration 1 — September 25, 2026
 
-## Current Result So
+## Current Result
 
 ### Primary Sources
 
