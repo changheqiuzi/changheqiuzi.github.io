@@ -40,14 +40,3 @@
 .author__avatar img {
   border-radius: 10px !important;
 }
-.page {
-  width: 100%;
-
-  @include breakpoint($large) {
-    padding-right: 0;
-  }
-}
-
-.page__content {
-  max-width: 100%;
-}
