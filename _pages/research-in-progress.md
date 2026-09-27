@@ -68,7 +68,7 @@ I had used Excel for coding in my earlier projects during my master's program, a
 
 ### 2. In what ways has the content assigned so far, and our discussions in class so far, impacted your thinking? How have you let these forms of engagement change your mind about your research process? Were there particular authors who grabbed your attention? What have you learned about the ways that the interpretive disciplines take advantage of the digital ecosystem of the academy?
 
-"Proxy" was an abstract concept to me. I now think of it as a chain of interpretation. I take the words an interviewee says and use them to infer their feelings, opinions, and attitudes. Thinking about it this way has helped me form better — more specific and more answerable — questions.
+"Proxy" was an abstract concept to me. I now think of it as a chain of interpretation. I take the words an interviewee says and use them to infer their feelings, opinions, and attitudes. Thinking about it this way has helped me form better (more specific and more answerable) questions.
 
 I learned from a psychoanalysis course that "all you have is words." But in an interview, what I received is more than words. I perceive my interviewees' emotions. They cry and laugh during the interview. That is a subtler kind of proxy, but it's valuable and part of what makes the interview method significant and charming.
 
