@@ -49,10 +49,10 @@ I still need to find an effective method to organize this. Right now it's all st
 
 **Tool:** Zotero, for organizing the literature.
 
-### Writing Completed So Far
+<!--### Writing Completed So Far
 
 - I wrote a [proposal] for this project
-  [Project Proposal](链接地址)
+  [Project Proposal](链接地址) -->
 
 ---
 
