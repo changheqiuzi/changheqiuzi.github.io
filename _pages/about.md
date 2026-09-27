@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student in Communication. I’m interested in the intersection of technology, culture, and society. In 2026, my focus is AI intimacy. I’m exploring how people make sense of their romantic relationships with AI chatbots. I’ll share my research progress [here](/research-in-progress)!
+I’m a PhD student in Communication, working at the intersection of cultural studies, feminist media studies and science and technology studies. My current project investigates people who are in romantic relationships with AI chatbots. I’ll share my research progress [here](/research-in-progress)!
 
