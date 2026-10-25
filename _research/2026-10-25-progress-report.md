@@ -27,6 +27,7 @@ Before I worried about whether this is a proper way to do grounded analysis (in 
 ### What was your process for this iteration? What did your Mindful Practice Journal show you about that process? Please summarize your journal notes and draw conclusions from your experience.
     
 My process mainly involved writing, looking at transcripts, and reading some literature (in the usual sense of “doing academic research”).
+
 I did some coding in NVivo for my first interview. As I tried to code the transcript line by line, I noticed a few tricky parts:
     
 1. Some long passages seemed to fall outside the “topics” I planned (for example, our opening and ending small talk).  But I still tried to find meaning in them.
