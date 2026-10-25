@@ -1,5 +1,5 @@
 ---
-title: "Iteration 2 — September 25, 2026"
+title: "Iteration 2 — October 25, 2026"
 collection: research
 permalink: /research/2026-10-25-progress-report/
 date: 2026-10-25
