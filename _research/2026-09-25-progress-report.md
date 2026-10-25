@@ -1,14 +1,12 @@
 ---
-title: "Research Progress Report: Sources, Methods, and Reflections"
+title: "Iteration 1 — September 25, 2026"
 collection: research
 permalink: /research/2026-09-25-progress-report/
 date: 2026-09-25
-excerpt: "Catalog of primary and secondary sources, methodological reflections, and responses to course prompts."
+excerpt: "Primary and secondary sources, questions, and responses to course prompts."
 layout: single
 author_profile: false
 ---
-
-## Iteration 1 — September 25, 2026
 
 ## Current Result
 
